@@ -1,2 +1,6 @@
 # PoliceSystem
-1.Police Management；2.public service; 3. criminal case; 4. report police
+15、	公安警务管理平台
+1)	警务人员管理：警务人员信息维护，部门管理，辖区管理。
+2)	公共服务：户口办理，身份证办理，保卫巡逻
+3)	刑事案件：案件调查，罪犯通缉、罪犯抓捕
+4)	报警接警：报警登记，处警调度
